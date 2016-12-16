@@ -1,0 +1,8 @@
+Content-Type: application/json
+
+{"uid": urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
+  "updateDate": "2016-05-23T22:34:51.0Z",
+  "titleText": "Limerick of the day",
+  "mainText": "There was an old man from miami, who ordered a big cuban sammy, the cook said you goose, I'm not doctor Seuss, you'll not get green eggs and hammy",
+  "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+}
